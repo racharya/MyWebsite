@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://ak-hdl.buzzfed.com/static/2014-04/enhanced/webdr08/10/13/enhanced-buzz-wide-19679-1397152190-8.jpg');
+  background-image:url('https://images.unsplash.com/photo-1434139240289-56c519f77cb0?q=80&fm=jpg&s=13f8a0d1c2f96b5f311dedeb17cddb60');
   height: 1000px;
   margin-left:300px;
   margin-right:300px;
@@ -25,7 +25,7 @@
 }
 
 .jumbotron h1 {
-  color: #000;
+  color: #fff;
   font-size: 48px;
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -33,7 +33,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #000;
+  color: #fff;
 }
 
 .learn-more {
