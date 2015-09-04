@@ -62,4 +62,6 @@
     font-size: 15px;
     margin-bottom:13px
 }
-
+.thumbnail img {
+	height:198px;
+}
